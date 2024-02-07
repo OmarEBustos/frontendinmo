@@ -1,4 +1,4 @@
-# tienda
+# tiendaprueba
 
 ## Project setup
 ```
